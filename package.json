@@ -1,0 +1,17 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "This is a cron expression parser cli tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js test",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "Cron",
+    "CLI"
+  ],
+  "author": "Hardik Prashar",
+  "license": "ISC",
+  "type": "module"
+}
