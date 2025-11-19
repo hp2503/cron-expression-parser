@@ -4,7 +4,7 @@ A command-line tool for parsing cron expressions into human-readable format.
 
 ## Description
 
-This tool parses standard cron expressions and expands them into lists of values for each field (minute, hour, day of month, month, day of week, and command). It supports various cron syntax including wildcards (*), ranges (1-5), lists (1,3,5), and steps (*/15 or 1-10/2).
+This tool parses standard cron expressions and expands them into lists of values for each field (minute, hour, day of month, month, day of week, and command). It supports various cron syntax including wildcards (`*`), ranges (1-5), lists (1,3,5), and steps (`*`/15 or 1-10/2).
 
 ## Installation
 
